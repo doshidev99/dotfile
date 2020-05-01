@@ -1,14 +1,12 @@
 # dotfiles
 A set of `vim`, `zsh`, and `tmux` configuration files for JavaScript Developer who likes to use Vim/NeoVim on macOS.
 
-![Screenshot](screenshot.png)
-
 Install
 -------
 
 Clone onto your machine:
 
-    git clone git://github.com/codeaholicguy/dotfiles.git
+    git clone https://github.com/phamdongtruong99/dotfile.git
 
 Simply run file (maybe you  must run `chmod +x ./install.sh` before run that file):
 
